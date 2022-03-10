@@ -11,12 +11,18 @@ Explain the uncertainties that are involved in getting a proof of concept runnin
 Explain how to mitigate uncertainties in getting various components of your proof of concept running: 20
 
 Motivate and define the problem:
+  Determining the best time to buy or sell a certain quantity of shares for a company of choice.
   
 Briefly mention related work:
-
-Explain at least one the main ideas of your project clearly:
   
 
+Explain at least one the main ideas of your project clearly:
+  -Simulate multiple stock prediction methods side by side. Create tests to compare the output data of all ranking from best to worst.
+  -
+
 Explain the uncertainties that are involved in getting a proof of concept running:
+  -Uncertainties include a low understanding of the different prediction methods included in the repository we are analysing (more research)
+  -
 
 Explain how to mitigate uncertainties in getting various components of your proof of concept running:
+  -
