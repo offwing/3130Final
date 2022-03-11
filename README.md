@@ -25,4 +25,4 @@ Explain the uncertainties that are involved in getting a proof of concept runnin
   -
 
 Explain how to mitigate uncertainties in getting various components of your proof of concept running:
-  -
+  -More searches regarding how each of the prediction agents and deep learning methods presented in the repo function (in terms of benefiting someone in the stock market)
